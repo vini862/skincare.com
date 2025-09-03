@@ -225,4 +225,10 @@ body{
     .service-container-2{
         flex-direction: column;
     }
+    .contact-container{
+       flex-direction: column;
+    }
+    .btn{
+       display: none;
+    }
 }
